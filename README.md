@@ -1,6 +1,6 @@
 # bmiapp
 
-A new Flutter project.
+A simple fitness Fultter application to calculate your bmi.
 
 ## Getting Started
 
